@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.ApplicationCore.deps.json
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.ApplicationCore.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.ApplicationCore.pdb
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.pdb
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.Common.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.Infrastructure.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.Infrastructure.pdb
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\bin\Debug\netcoreapp3.1\Misa.Common.pdb
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\ApplicationCore\obj\Debug\netcoreapp3.1\Misa.ApplicationCore.csproj.CopyComplete

@@ -1,0 +1,87 @@
+﻿.content-grid .table-common {
+    width: 100%;
+    height: calc(100vh - 270px);
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.table-common tr {
+    height: 40px;
+    cursor:pointer;
+}
+
+.table-common td, th {
+    max-width: 150px;
+    padding: 10px 20px;
+    white-space: nowrap;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.table-navigation {
+    /*background-color: #019160;*/
+    width: calc(100% - 30px);
+    height: 60px;
+    position: absolute;
+    bottom: 15px;
+    box-sizing: border-box;
+    display:flex;
+    align-items:center;
+}
+    .table-navigation .nav-left{
+        width:auto;
+        height:auto;
+        position:absolute;
+        left:0px;
+    }
+    .table-navigation .nav-center {
+        width:auto;
+        height:auto;
+        display:flex;
+        position:relative;
+        margin:auto;
+    }
+    .table-navigation .nav-right {
+        width: auto;
+        height: auto;
+        position:absolute;
+        right:0px;
+    }
+.arr-left {
+    background-image: url('../../content/icon/btn-prev-page.svg');
+    margin-right:10px;
+}
+.dbl-arr-left {
+    background-image: url('../../content/icon/btn-firstpage.svg');
+    margin-right: 10px;
+}
+.arr-right {
+    background-image: url('../../content/icon/btn-next-page.svg');
+    margin-left: 10px;
+}
+.dbl-arr-right {
+    background-image: url('../../content/icon/btn-lastpage.svg');
+    margin-left: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height:5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }

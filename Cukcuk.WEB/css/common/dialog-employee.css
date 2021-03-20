@@ -1,0 +1,91 @@
+﻿@import url('button.css');
+@import url('input.css');
+.dialog-employee{
+    width:fit-content;
+    height:auto;
+    /*position:absolute;*/
+}
+.body {
+    width: auto;
+    height: auto;
+    display: flex;
+    padding: 0px 10px;
+    border-radius: 5px 5px 0px 0px;
+}
+    .body .body-left {
+        width:200px;
+        height:auto;
+        position:relative;
+        padding:10px;
+    }
+        .body-left .avatar-default {
+            width: 200px;
+            height: 200px;
+            box-sizing: border-box;
+            border-radius: 50%;
+            border: 1px solid #bbbbbb;
+            background-image: url(../../content/img/default-avatar.jpg);
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            z-index: 1;
+        }
+        .body-left #img-avatar {
+            width: 200px;
+            height: 200px;
+            margin-bottom:5px;
+            border-radius: 50%;
+            opacity: 0;
+            position: absolute;
+            top: 0;
+            z-index: 2;
+            cursor: pointer;
+        }
+        .body-left label{
+            
+        }
+    .body .body-right {
+        width:auto;
+        height:auto;
+        position:relative;
+        padding: 0 10px 10px 10px;
+    }
+        .input-info{
+            width:250px;
+            height:auto;
+            padding-right:5px;
+            box-sizing:border-box;
+        }
+        .row-input{
+            width:100%;
+            height:60px;
+            display:flex;
+            padding:5px 0px;
+            box-sizing:content-box;
+        }
+            .body-right .title{
+                width:auto;
+                height:auto;
+                padding:5px;
+            }
+                .title h3{
+                    margin:0px;
+                }
+                .title .line-decorate{
+                    width:100px;
+                    height:3px;
+                    border:none;
+                }
+.bottom {
+    width: auto;
+    height: auto;
+    padding: 10px 25px 10px 10px;
+    background-color: #bbbbbb;
+    display: flex;
+    border-radius: 0px 0px 5px 5px;
+}
+.bottom #btnCancel{
+    margin-left:auto;
+    margin-right:10px;
+    background-color:#808080;
+}

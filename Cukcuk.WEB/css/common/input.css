@@ -1,0 +1,13 @@
+﻿.m-input{
+    width:100%;
+    height:40px;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+    outline:none;
+    padding:10px;
+    box-sizing: border-box;
+}
+
+input.border-red{
+    border:1px solid #ff0000;
+}

@@ -1,0 +1,15 @@
+﻿.dialog-delete {
+    width:auto;
+    height:auto;
+}
+.dialog-delete .input-info {
+    width:250px;
+    padding: 10px 15px;
+}
+    .dialog-delete #btnCancelDelete {
+        margin-left:auto;
+        background-color: #808080;
+    }
+        .dialog-delete #btnCancelDelete:hover {
+            background-color:#000000;
+        }

@@ -1,0 +1,9 @@
+﻿.radio-input{
+    width:40px;
+    height:40px;
+}
+.radio-input input{
+    width:20px;
+    height:20px;
+    border: 1px solid #bbbbbb;
+}

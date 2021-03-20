@@ -1,0 +1,5 @@
+﻿.item-active:active {
+	background-color: #019160;
+	background-size:contain;
+	border:none;
+}

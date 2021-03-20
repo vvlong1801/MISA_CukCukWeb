@@ -1,0 +1,52 @@
+﻿.header{
+    width: calc(100% - 220px);
+    height: 60px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    position:absolute;
+    left:220px;
+    top: 0px;
+    border-bottom: 1px solid #808080;
+}
+    .header .header-left {
+        width: auto;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        position: absolute;
+        padding: 0px 15px;
+    }
+    .header-left .title{
+
+    }
+    .header-left .icon-arrow {
+        width:20px;
+        height:20px;
+        background-image: url('../../content/icon/btn-next-page.svg');
+    }
+.header .header-right{
+    width: auto;
+    height: 30px;
+    position: absolute;
+    right:20px;
+    display:flex;
+    align-items:center;
+}
+.header-right .avatar {
+    width: 30px;
+    height: 30px;
+    background-image: url('../../content/icon/avatar-default.png');
+    background-size:contain;
+    background-repeat:no-repeat;
+    margin-right:20px;
+}
+.header-right .account{
+    margin-right:20px;
+}
+.header-right .icon-option {
+    width: 20px;
+    height: 20px;
+    background-image: url(../../content/icon/option.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

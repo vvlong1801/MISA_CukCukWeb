@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="/css/common/dialog-employee.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <div class="dialog-employee">
+        <div class="body">
+            <div class="body-left">
+                <div class="avatar-default"></div>
+                <input id="img-avatar" type="file" name="img-employee" value="" />
+                <label for="img-avatar">Vui lòng chọn ảnh có định dạng <br><b>.jpg, .jpeg, .png, .gif. </b></label>
+            </div>
+            <div class="body-right">
+                <div class="info-common">
+                    <div class="title">
+                        <h3>A.THÔNG TIN CHUNG</h3>
+                        <div class="line-decorate"></div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="EmployeeCode">Mã nhân viên (*)</label>
+                            <input class="m-input" type="text" name="EmployeeCode" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="FullName">Họ và tên (*)</label>
+                            <input class="m-input" type="text" name="FullName" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="DateOfBirth">Ngày sinh</label>
+                            <input class="m-input" type="date" name="DateOfBirth" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="Gender">Giới tính</label>
+                            <input class="m-input" type="text" name="Gender" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="IdentityNumber">Số CMTND/ Căn cước (*)</label>
+                            <input class="m-input" type="text" name="IdentityNumber" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="IdentityDate">Ngày cấp</label>
+                            <input class="m-input" type="date" name="IdentityDate" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="IdentityPlace">Nơi cấp</label>
+                            <input class="m-input" type="text" name="IdentityPlace" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="Email">Email</label>
+                            <input class="m-input" type="text" name="Email" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="PhoneNumber">Số điện thoại</label>
+                            <input class="m-input" type="text" name="PhoneNumber" value="#" />
+                        </div>
+                    </div>
+                        
+                </div>
+                <div class="info-work">
+                    <div class="title">
+                        <h3>B.THÔNG TIN CÔNG VIỆC</h3>
+                        <div class="line-decorate"></div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="Position">Vị trí</label>
+                            <input class="m-input" type="text" name="Position" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="Department">Phòng ban</label>
+                            <input class="m-input" type="text" name="Department" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="FaxPersonal">Mã số thuế cá nhân</label>
+                            <input class="m-input" type="text" name="FaxPersonal" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="Salary">Mức lương cơ bản</label>
+                            <input class="m-input" type="text" name="Salary" value="#" />
+                        </div>
+                    </div>
+                    <div class="row-input">
+                        <div class="input-info">
+                            <label for="JoinDate">Ngày gia nhập công ty</label>
+                            <input class="m-input" type="date" name="JoinDate" value="#" />
+                        </div>
+                        <div class="input-info">
+                            <label for="WorkStatus">Tình trạng công việc</label>
+                            <input class="m-input" type="text" name="WorkStatus" value="#" />
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="bottom">
+            <button class="m-btn" id="btnCancel">Hủy</button>
+            <button class="m-btn" id="btnSave">Lưu</button>
+        </div>
+    </div>
+</body>
+</html>

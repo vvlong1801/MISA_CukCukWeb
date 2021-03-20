@@ -1,0 +1,9 @@
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.deps.json
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.pdb
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.dll
+C:\Users\anton\OneDrive\Desktop\misa2020\VVLong-MS1-13\Misa.CukCuk\Misa.CukCuk\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.pdb

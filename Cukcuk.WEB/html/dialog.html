@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="/css/common/drop-down.css" rel="stylesheet" />
+    <link href="/css/common/button.css" rel="stylesheet" />
+    <link href="/css/common/input.css" rel="stylesheet" />
+    <link href="/css/common/dialog.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <div class="dialog">
+        <div class="dialog-blur"></div>
+    <div class="customer-dialog">
+        <div class="dialog-header">
+            <div class="title">THÔNG TIN KHÁCH HÀNG</div>
+            <button class="icon-close"></button>
+        </div>
+        <div class="dialog-body">
+            <div class="content-up">
+                <div class="up-left">
+                    <div class="avatar-input"></div>
+                    <!--<div class="customer-img">--><input type="file" id="customer-img" name="customer-img" /><!--</div>-->
+                    <label for="customer-img"> Vui lòng chọn ảnh có định dạng <br><b>.jpg, .jpeg, .png, .gif. </b></label>
+                </div>
+                <div class="up-center">
+                    <div class="input-info">
+                        <label>Mã khách hàng</label>
+                        <input class="m-input-info" type="text" name="CustomerCode" autofocus />
+                    </div>
+                    <div class="input-info">
+                        <label>Mã thẻ thành viên</label>
+                        <input class="m-input-info" type="text" name="MemberCardCode" />
+                    </div>
+                    <div class="input-info">
+                        <label>Ngày sinh</label>
+                        <input class="m-input-info" type="date" name="DateOfBirth" />
+                    </div>
+                </div>
+                <div class="up-right">
+                    <div class="input-info">
+                        <label>Họ và tên khách hàng</label>
+                        <input class="m-input-info" type="text" name="FullName" />
+                    </div>
+                    <div class="input-info">
+                        <label>Nhóm khách hàng</label>
+                        <select class="drop-down">
+                            <option value="#">Khách VIP</option>
+                            <option value="#">Khách hàng MISA</option>
+                            <option value="#">Khách thường</option>
+                        </select>
+                    </div>
+                    <div class="input-gender">
+                        <label>Giới tính</label>
+                        <form class="check-box">
+
+                            <input type="radio" id="Male" name="gender" />
+                            <label for="Male">Nam</label>
+
+                            <input type="radio" id="Female" name="gender" value="#" />
+                            <label for="Female">Nữ</label>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="content-down">
+                <div class="down-twoCol">
+                    <div class="col-left">
+                        <label for="Email">Email</label>
+                        <input class="m-input-info" type="text" id="Email" name="Email" value="" />
+                    </div>
+                    <div class="col-right">
+                        <label for="PhoneNumber">Số điện thoại</label>
+                        <input class="m-input-info" type="text" id="PhoneNumber" name="PhoneNumber" value="" />
+                    </div>
+                </div>
+                <div class="down-twoCol">
+                    <div class="col-left">
+                        <label for="CompanyNme">Tên Công Ty</label>
+                        <input class="m-input-info" type="text" id="CompanyName" name="CompanyName" value="" />
+                    </div>
+                    <div class="col-right">
+                        <label for="FaxCode">Mã số thuế</label>
+                        <input class="m-input-info" type="text" id="FaxCode" name="FaxCode" value="" />
+                    </div>
+
+                </div>
+                <div class="down-oneCol">
+                    <label for="Address">Địa chỉ</label>
+                    <input class="m-input-info" type="text" id="Address" name="Address" value="" />
+                </div>
+            </div>
+        </div>
+        <div class="dialog-footer">
+            <button class="m-btn btn-cancel">Hủy</button>
+            <button class="m-btn">
+                <div class="icon-store"></div>
+                <div class="text">Lưu</div>
+            </button>
+            <button class="m-btn">Lưu và thêm mới</button>
+        </div>
+        </div>
+            </div>
+</body>
+</html>

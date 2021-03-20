@@ -1,0 +1,20 @@
+﻿.content-grid .table-common {
+    width: 100%;
+    height: calc(100vh - 270px);
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.table-common tr {
+    height: 40px;
+}
+
+.table-common td, th {
+    max-width: 150px;
+    padding: 10px 20px;
+    white-space: nowrap;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-bottom: 1px solid #bbbbbb;
+}
